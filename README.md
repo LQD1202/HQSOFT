@@ -14,7 +14,7 @@
 ### 1. Clone hoặc tải mã nguồn
 
 ```bash
-git clone https://github.com/your-username/yolov8-streamlit-app.git
+git clone https://github.com/LQD1202/HQSOFT.git
 cd HQSOFT
 ````
 
