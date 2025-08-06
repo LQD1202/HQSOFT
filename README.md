@@ -23,6 +23,7 @@ cd HQSOFT
 
 ```bash
 conda create -n od
+conda activate od
 ```
 
 ### 3. Cài đặt thư viện phụ thuộc
