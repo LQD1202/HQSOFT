@@ -55,7 +55,7 @@ HQSOFT/
 
 ## 📷 Demo giao diện
 
-![demo](demo/original.jpg)
+![demo](demo.jpg)
 
 ---
 
